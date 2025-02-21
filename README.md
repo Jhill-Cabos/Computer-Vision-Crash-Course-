@@ -58,4 +58,8 @@ This repository, **Computer Vision Crash Course**, provides hands-on activities 
 - **Edge and Contour Detection** – Explores techniques for detecting object boundaries and contours.  
 - **Face Detection using OpenCV** – Implements face detection using Haar cascades or deep learning-based methods.  
 - **Line and Circle Detection** – Demonstrates shape detection techniques in images.  
-- **Performing Face Recognition** – Tests a trained model to recognize faces, distinguishing between known and unknown individuals.  
+- **Performing Face Recognition** – Tests a trained model to recognize faces, distinguishing between known and unknown individuals.
+
+## What I have learned
+
+**Through this crash course, I learned how to work with images and videos using OpenCV, including reading, writing, and basic processing. I explored edge and contour detection to identify object boundaries and shapes. I also gained hands-on experience in detecting and recognizing faces by distinguishing between known and unknown individuals. At first, I wasn’t sure if I would be able to do it well, but as I progressed, I became more confident in applying these techniques. This course gave me a solid understanding of computer vision basics and how to use them in real-world tasks.**
